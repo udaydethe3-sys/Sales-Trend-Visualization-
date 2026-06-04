@@ -1,5 +1,8 @@
 # Sales Trend Visualization 2024
 
+## Intern Details
+Intern ID: CITS1301
+
 ## Description
 Monthly sales data analysis and visualization using Excel.
 
